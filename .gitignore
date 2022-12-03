@@ -1,0 +1,10 @@
+# 项目排除路径
+/game/dist/
+/game/node_modules/
+/part2/01-配置监视文件.js
+/part2/01-配置监视文件.js.map
+/part3/dist/
+/part3/node_modules/
+/part3/src/index.js
+/part-1/02-TS中的类型-01.js
+/part-1/02-TS中的类型-02.js

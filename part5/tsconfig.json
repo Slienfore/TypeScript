@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "module": "es2015",
+    "target": "es2015",
+    "strict": true,
+    // 输出目录
+    "outDir": "./dist"
+  },
+  // 指定扫描位置
+  "include": [
+    "src/*"
+  ]
+}
